@@ -1,4 +1,3 @@
-{{-- <img src="{{ Vite::asset('resources/img/picsum30.jpg') }}" alt=""> --}}
 @extends('layout.base')
 
 

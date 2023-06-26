@@ -1,11 +1,17 @@
 @import "~bootstrap/scss/bootstrap";
 
-body {
-    background-image: url("../img/picsum16.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+header {
+    h1 {
+        text-align: center;
+    }
 
-h1 {
-    color: red;
+    .navmenu {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .logo {
+        max-width: 50px;
+    }
 }

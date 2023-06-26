@@ -1,8 +1,8 @@
 <header>
-    <h1>Cult Movies you should watch! </h1>
-    <div>
+    <h1>Film Cult</h1>
+    <div class="navmenu">
         <div class="logo">
-            <img src="" alt="">
+            <img src="{{ Vite::asset('resources/img/movieLogo.jpg') }}" alt="">
         </div>
         <div class="links">
             <a href="/">Home</a>
