@@ -1,4 +1,3 @@
-
 <header>
     <h1>Cult Movies you should watch! </h1>
     <div>
@@ -6,8 +5,8 @@
             <img src="" alt="">
         </div>
         <div class="links">
+            <a href="/">Home</a>
             <a href="/movies">Movies</a>
-            <a href="">About Us</a>
         </div>
     </div>
 </header>

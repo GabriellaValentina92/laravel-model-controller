@@ -1,5 +1,5 @@
 {{-- <img src="{{ Vite::asset('resources/img/picsum30.jpg') }}" alt=""> --}}
-@extends('layouts.base')
+@extends('layout.base')
 
 
 @section('contents')
