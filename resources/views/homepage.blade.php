@@ -2,8 +2,10 @@
 
 
 @section('contents')
-    <h2>Benvenuti nella nostra videoteca!</h2>
-    <p>Seleziona nel menù in alto Movies per vedere la lista dei film vi raccomandiamo di guardare. Buona visione!</p>
+    <div class="homeContainer">
+        <h2>Benvenuti nella nostra videoteca!</h2>
+        <p>Clicca su Movies, nel menù in alto, per visualizzare la lista dei film. Buona visione!</p>
+    </div>
 @endsection
 
 
