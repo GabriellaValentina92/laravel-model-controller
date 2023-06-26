@@ -1,0 +1,15 @@
+header {
+    h1 {
+        text-align: center;
+    }
+
+    .navmenu {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .logo {
+        max-width: 50px;
+    }
+}
